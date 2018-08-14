@@ -1,4 +1,3 @@
 # hash.py
 
-md5 : 825408b3b74fb6bc73c9449443bd3acf
-sha1 : 1dac4e37a30edca8e4ef6713b59c6a05c68557ac
+调用hashlib求取文件的md5 sha1/sha224/sha256/sha384/sha512 sha3_224/sha3_256/sha3_384/sha3_512
